@@ -28,3 +28,6 @@ The submission of this homework will be your github repositories urls to both pr
 The goal of this is to let you use git and github to track and backup your work. With this any dead machine incident will not be accepted as reason of late homework.
 
 **BONUS POINT: 5pt** if you actually use git and github to work on this homework. This means you regularly commit local changes (on your laptop or desktop) and also regular push your code to github. All these can be evidenced by github history.
+
+-Created a C++ program which served as a Sudoku puzzle solver for a gride of any size.
+-Created the solver by first creating the initial grid and then using recursive principles and functions to solve the puzzle.
